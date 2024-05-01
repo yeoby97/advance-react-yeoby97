@@ -1,2 +1,2 @@
 # advance-react-yeoby97
-youtube만들기
+자기소개
